@@ -1,0 +1,13 @@
+#heading_heading{ 
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(font.jfif) 30 stretch;
+    color: aliceblue;
+  }
+
+  #font_change
+  {
+      color: whitesmoke;
+      font-size: 300%;
+      background-image: linear-gradient(180deg, rgb(25, 0, 255), rgb(255, 95, 228));
+  }
